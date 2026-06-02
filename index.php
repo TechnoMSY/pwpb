@@ -293,7 +293,7 @@ if ($res_news) {
             </div>
         </div>
         <div class="border-t border-slate-800 py-6 text-center text-[10px] text-slate-500 bg-black/10 uppercase tracking-widest">
-            <p>© 2026 MTs Al-Hikmah Keo Tengah. All Rights Reserved.</p>
+            <p>© 2026 MTs Al-Hikmah Keo Tengah. All Rights Reserved</p>
         </div>
     </footer>
 
